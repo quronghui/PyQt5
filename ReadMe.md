@@ -13,4 +13,10 @@
    #（1）代码需要在需要在python中进行执行，eric是是PyQt的图形输出；
    ```
 
+3. Chapter03
+
+   ```
+   # Qt Designer 的使用方法；
+   ```
+
    
