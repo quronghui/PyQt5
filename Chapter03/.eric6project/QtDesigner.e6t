@@ -1,42 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
 <!-- eric6 tasks file for project QtDesigner -->
-<!-- Saved: 2020-09-16, 21:53:27 -->
+<!-- Saved: 2020-09-25, 09:11:26 -->
 <Tasks version="6.0">
   <ProjectScanFilter></ProjectScanFilter>
-  <Task priority="1" completed="False" type="2" uid="{09120c93-31d1-46db-8c20-823f45c7bd58}">
+  <Task priority="1" completed="False" type="2" uid="{316180ee-c44d-4693-be70-7eb7ca8b347d}">
     <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
     <Description></Description>
-    <Created>2020-09-16, 20:09:53</Created>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>MainWinSignalSlog01.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{9eedb9cd-c478-425f-b3a3-9e1eb7ea4bf5}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_ChildrenForm2.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{c7480677-0bba-4c99-a5f3-94009e0c9612}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_MainForm2.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{51ccac36-7978-4bf0-856e-97c8c61927a1}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_MainForm3.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{ca6c0329-8809-48aa-9834-996b29335a98}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_MainWinSignalSlog01.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{ec4e96b1-bbcc-461a-91b5-1b875ec49dca}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_MainWinSignalSlog03.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{c10e2bad-4e93-410c-8e22-7c99ae2a6a9d}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_TowMainWinSpacer.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{a23f99fc-52df-4809-aada-b95dc58b1bdd}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
+    <Resource>
+      <Filename>Ui_layout_demo_LayoutManage.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{059125f4-f4a5-4927-85fc-f084b7845efa}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2020-09-25, 09:10:43</Created>
     <Resource>
       <Filename>firstMainWin.py</Filename>
       <Linenumber>7</Linenumber>
     </Resource>
   </Task>
-  <Task priority="1" completed="False" type="2" uid="{22313b0e-e39c-49f6-963f-21c529fd8d80}">
+  <Task priority="1" completed="False" type="2" uid="{9fc8c36b-acf0-4569-9fe3-0e4d5572dd9a}">
     <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
     <Description></Description>
-    <Created>2020-09-16, 20:10:45</Created>
+    <Created>2020-09-25, 09:10:57</Created>
     <Resource>
-      <Filename>Ui_MainWin01.py</Filename>
-      <Linenumber>7</Linenumber>
-    </Resource>
-  </Task>
-  <Task priority="1" completed="False" type="2" uid="{f76c6cf3-e5dd-44d1-9768-96e67d7231c5}">
-    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
-    <Description></Description>
-    <Created>2020-09-16, 20:47:10</Created>
-    <Resource>
-      <Filename>Ui_TowMainWin.py</Filename>
-      <Linenumber>7</Linenumber>
-    </Resource>
-  </Task>
-  <Task priority="1" completed="False" type="2" uid="{54aa9bb4-a096-491b-8113-39802ee871d7}">
-    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
-    <Description></Description>
-    <Created>2020-09-16, 20:53:54</Created>
-    <Resource>
-      <Filename>Ui_TowMainWinSpacer.py</Filename>
+      <Filename>Ui_MainFrom.py</Filename>
       <Linenumber>7</Linenumber>
     </Resource>
   </Task>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project QtDesigner -->
-<!-- Saved: 2020-09-16, 21:53:27 -->
+<!-- Saved: 2020-09-21, 16:39:37 -->
 <!-- Copyright (C) 2020 ,  -->
 <Project version="5.1">
   <Language></Language>
@@ -14,16 +14,40 @@
   <Eol index="0"/>
   <Sources>
     <Source>CallFirstMainWin.py</Source>
-    <Source>Ui_MainWin01.py</Source>
+    <Source>CallMainForm.py</Source>
+    <Source>CallMainForm2.py</Source>
+    <Source>CallMainForm3.py</Source>
+    <Source>CallMainWinSignalSlog01.py</Source>
+    <Source>CallMainWinSignalSlog03.py</Source>
+    <Source>MainWinSignalSlog01.py</Source>
+    <Source>TowMainWinSpacer.py</Source>
+    <Source>Ui_ChildrenForm2.py</Source>
+    <Source>Ui_MainForm2.py</Source>
+    <Source>Ui_MainForm3.py</Source>
+    <Source>Ui_MainFrom.py</Source>
+    <Source>Ui_MainWinSignalSlog01.py</Source>
+    <Source>Ui_MainWinSignalSlog03.py</Source>
     <Source>Ui_TowMainWinSpacer.py</Source>
+    <Source>Ui_layout_demo_LayoutManage.py</Source>
     <Source>__init__.py</Source>
+    <Source>apprcc_rc.py</Source>
     <Source>firstMainWin.py</Source>
+    <Source>layout_demo_LayoutManage.py</Source>
   </Sources>
   <Forms>
-    <Form>MainWin01.ui</Form>
+    <Form>ChildrenForm2.ui</Form>
+    <Form>MainForm2.ui</Form>
+    <Form>MainForm3.ui</Form>
+    <Form>MainFrom.ui</Form>
+    <Form>MainWinSignalSlog01.ui</Form>
+    <Form>MainWinSignalSlog03.ui</Form>
     <Form>TowMainWinSpacer.ui</Form>
     <Form>firstMainWin.ui</Form>
+    <Form>layout_demo_LayoutManage.ui</Form>
   </Forms>
+  <Resources>
+    <Resource>apprcc.qrc</Resource>
+  </Resources>
   <Vcs>
     <VcsType>None</VcsType>
   </Vcs>

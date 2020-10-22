@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project Chapter04 -->
+<!-- Saved: 2020-10-14, 09:50:04 -->
+<!-- Copyright (C) 2020 ,  -->
+<Project version="5.1">
+  <Language></Language>
+  <Hash>adddd007bac8a29b696605499f62870c1366b5cc</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Ui_TestLayout.py</Source>
+    <Source>__init__.py</Source>
+    <Source>qt04_CloseMainWin.py</Source>
+    <Source>qt401_widgetGenmetry.py</Source>
+    <Source>qt402_FirstPyQt.py</Source>
+    <Source>qt402_QMainWin.py</Source>
+    <Source>qt403_QIcon.py</Source>
+    <Source>qt404_QToolTip.py</Source>
+    <Source>qt405_center.py</Source>
+    <Source>qt406_QLable.py</Source>
+    <Source>qt407_QLable.py</Source>
+    <Source>qt408_lineEdit01.py</Source>
+    <Source>qt408_lineEdit02.py</Source>
+    <Source>qt408_lineEdit03.py</Source>
+    <Source>qt408_lineEdit04.py</Source>
+    <Source>qt409_textEdit.py</Source>
+    <Source>qt410_QButton.py</Source>
+    <Source>qt410_QRadio.py</Source>
+    <Source>qt411_QCheckbox.py</Source>
+    <Source>qt412_QComboBox.py</Source>
+    <Source>qt413_QSpinBox.py</Source>
+    <Source>qt414_QSlider.py</Source>
+    <Source>qt415_QDialog.py</Source>
+    <Source>qt415_QInputDialog.py</Source>
+    <Source>qt416_QMessageBox.py</Source>
+    <Source>qt417_QFontDialog.py</Source>
+    <Source>qt418_QFileDialog.py</Source>
+    <Source>qt419_QPixmap.py</Source>
+    <Source>qt419_drawBrush.py</Source>
+    <Source>qt419_drawPen.py</Source>
+    <Source>qt419_drawPointer.py</Source>
+    <Source>qt419_drawText.py</Source>
+    <Source>qt420_QClipboard.py</Source>
+    <Source>qt420_QDrag.py</Source>
+    <Source>qt421_DateTimeEdit1.py</Source>
+    <Source>qt421_DateTimeEdit2.py</Source>
+    <Source>qt421_QCalendar.py</Source>
+    <Source>qt422_QMenuBar.py</Source>
+    <Source>qt422_QStatusBar.py</Source>
+    <Source>qt422_QToolBar.py</Source>
+    <Source>qt423_Qpainter.py</Source>
+  </Sources>
+  <Forms>
+    <Form>TestLayout.ui</Form>
+  </Forms>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
